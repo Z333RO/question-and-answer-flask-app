@@ -6,4 +6,4 @@ A question and answer app based on flask and sqlite3. Users can ask questions th
 
 ![answer.png](answer.png)
 
-![user.png](user.png)
+![users.png](users.png)
